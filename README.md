@@ -76,9 +76,6 @@ To handle exceptions effectively in your REST API project, you should include a 
 can use Logger service when the exception is thrown.
 Implementation of event handling using RabbitMQ.
 
-www.kreatx.com
-info@kreatx.com
-
 Include unit tests to validate critical functionality.
 Additionally, containerize the application using Docker to streamline deployment and scalability.
 Note:
