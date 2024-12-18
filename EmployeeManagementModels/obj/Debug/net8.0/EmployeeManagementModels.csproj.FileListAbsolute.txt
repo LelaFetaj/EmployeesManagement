@@ -1,0 +1,14 @@
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/bin/Debug/net8.0/EmployeeManagementModels.deps.json
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/bin/Debug/net8.0/EmployeeManagementModels.runtimeconfig.json
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/bin/Debug/net8.0/EmployeeManagementModels.dll
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/bin/Debug/net8.0/EmployeeManagementModels.pdb
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.csproj.AssemblyReference.cache
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.AssemblyInfoInputs.cache
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.AssemblyInfo.cs
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.csproj.CoreCompileInputs.cache
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.dll
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/refint/EmployeeManagementModels.dll
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.pdb
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/EmployeeManagementModels.genruntimeconfig.cache
+/Users/lelafetaj/Desktop/otherFolders/EmployeeManagement/EmployeeManagementModels/obj/Debug/net8.0/ref/EmployeeManagementModels.dll
